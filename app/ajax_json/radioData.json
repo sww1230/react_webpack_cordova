@@ -1,0 +1,54 @@
+{
+	"status" : "200",
+	"message": "ok",
+	"data": {
+				"corporation":[
+						{"text":"无","value":""},
+						{"text":"第一个测试企业","value":"aaaa"}
+				],
+				"guarantyStyle":[
+			    		{"text":"无","value":""},
+			    		{"text":"保证","value":"1"},
+			    		{"text":"抵押","value":"2"},
+			    		{"text":"质押","value":"3"},
+			    		{"text":"留置","value":"4"},
+			    		{"text":"定金","value":"5"}
+				],
+				"product":[
+				    	{"text":"无","value":""},
+				    	{"text":"管辖基金出资人借款","value":"11"},
+				    	{"text":"已投企业借款","value":"22"},
+				    	{"text":"上市公司股东借款","value":"33"}
+			    ],
+				"usage":[
+				    	{"text":"无","value":""},
+				    	{"text":"短期周转","value":"11"},
+				    	{"text":"个人信贷","value":"22"},
+				    	{"text":"投资创业","value":"33"},
+				    	{"text":"车辆融资","value":"44"},
+				    	{"text":"房产融资","value":"55"},
+				    	{"text":"企业融资","value":"66"},
+				    	{"text":"其它借款","value":"77"}
+			    ],
+				"type":[
+				    	{"text":"无","value":""},
+				    	{"text":"普通标","value":"100"},
+				    	{"text":"信用标","value":"200"},
+				    	{"text":"担保标","value":"300"},
+				    	{"text":"新手标","value":"400"}
+			    ],
+				"mortgaged":[
+				    	{"text":"无","value":""},
+				    	{"text":"无抵押-信用借款","value":"1000"},
+				    	{"text":"房产-抵押","value":"2000"},
+				    	{"text":"土地(包括山林渔牧)-抵押","value":"3000"},
+				    	{"text":"厂房库房-抵押","value":"4000"},
+				    	{"text":"商品库存-抵押","value":"5000"}
+			    ],
+				"paymentMethod":[
+				    	{"text":"无","value":""},
+				    	{"text":"是，一次性还本付息","value":"111"},
+				    	{"text":"否，一次性还本付息","value":"222"}
+			    ]
+	}
+}

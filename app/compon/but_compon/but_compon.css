@@ -1,0 +1,14 @@
+.but_compon{
+	line-height: 40px;
+	background-color: #5cae9f;
+	color: white;
+	text-align: center;
+	border-radius: 5px;
+	overflow: hidden;
+	cursor: pointer;
+}
+.but_compon div{
+	border-left: 1px solid white;
+	margin-left: -1px;
+}
+.but_compon div:hover{ background-color: #519e8f;}

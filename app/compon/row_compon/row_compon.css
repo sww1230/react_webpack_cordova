@@ -1,0 +1,49 @@
+.row_compon > div{
+    color: #D2D2D2;
+    font-size: 0.8em;
+}
+.row_compon > div:first-child{
+    font-size: 14px;
+}
+.row_compon > div,.row_compon > input{
+    outline:none;
+    height: 35px;
+    background-color: inherit;
+    line-height: 35px;
+    border: none;
+}
+
+
+.row_compon > input:focus{
+    border-bottom: 1px solid #5cae9f;
+}
+.row_compon > .g_borderNo{ border: none;}
+
+.row_compon input{ display: block; background-color: inherit;}
+
+.row_compon input[placeholder],.row_compon [placeholder],.row_compon *[placeholder]{
+	color: #333;
+	font-size: 0.8em;
+}
+
+.row_compon > input{
+    border-bottom: 1px solid #d2d2d2;
+    min-width: 0;
+    line-height: 35px;
+    color: #50A192;
+}
+
+
+.row_compon > p{
+    border-bottom: 1px solid #d2d2d2;
+    min-width: 0;
+    line-height: 35px;
+    color: #5E5E5F;
+    font-size: 0.8em;
+    display: block; background-color: inherit;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+

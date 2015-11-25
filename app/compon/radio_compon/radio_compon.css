@@ -1,0 +1,61 @@
+/*如果要更改弹层样式，复制下边css代码，把radioBox替换成你配置的id名称，然后重写*/
+
+/*弹层默认样式 灰色透明 最外层的*/
+#radioBox{}
+
+/*除灰色部分，主要的内容区域样式*/
+#radioBox .radioBox{
+	border-radius: 5px;
+	background-color: #fff;
+	padding:0 20px;
+	max-height: 325px;
+	overflow: visible;
+	overflow-y: scroll;
+}
+
+/*文本显示区域样式*/
+#radioBox .radioBox .radioBox_content{
+	color: #5cae9f;
+}
+#radioBox .radioBox ul{
+	margin: 0;
+	list-style: none;
+	padding: 0;
+}
+
+#radioBox .radioBox ul li{
+	line-height: 35px;
+	padding:0 10px; 
+	border-bottom: 1px solid #eeeded;
+}
+#radioBox .radioBox ul li.active{
+	background-color: #5cae9f;
+	color: #fff;
+}
+
+/*文本显示区域样式*/
+#radioBox .radioBox .radioBox_succeed_icon,
+#radioBox .radioBox .radioBox_failed_icon{
+	width: 100px;
+	height: 40px;
+
+	margin:0 auto 20px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#radioBox .radioBox .radioBox_succeed_icon{
+	background-image: url(../../icons/succeed.png);
+}
+#radioBox .radioBox .radioBox_failed_icon{
+	background-image: url(../../icons/failed.png);
+}
+
+/*ICON 样式*/
+#radioBox .radioBox .radioBox_icon{}
+
+/*
+	button 样式修改的话,
+	请查看按钮组件
+*/

@@ -1,0 +1,6 @@
+create  建标
+examine 审标
+login   登录
+release 发标
+
+每个页面下包含对应的css\js\config

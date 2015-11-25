@@ -1,0 +1,44 @@
+{
+	"status" : "200",
+	"message": "ok",
+	"data": {
+		  "result": true,
+		
+		  "allowNoPwdRepay" : true,
+		  "hasUserCredit" : 1,
+		  "hasAccount" : true,
+		  "user" : {
+			    "borrower" : true,
+			    "plainPassword" : null,
+			    "id" : "88765f76-6c31-48d3-8e38-6997126432ac",
+			    "channel" : null,
+			    "clientcode" : "JXJR",
+			    "email" : null,
+			    "employeeid" : null,
+			    "enabled" : true,
+			    "enterprise" : false,
+			    "groupid" : null,
+			    "idnumber" : "513401198411116911",
+			    "lastlogindate" : 1447658457000,
+			    "lastmodifiedby" : null,
+			    "loginname" : "13811891613",
+			    "mobile" : "13111111114",
+			    "name" : "解小娟",
+			    "needchangepassword" : false,
+			    "passphrase" : "92d17e9294108b35f9675aa28c8358d751ab48cd",
+			    "referralrewarded" : null,
+			    "registerdate" : 1436179266000,
+			    "registryrewarded" : null,
+			    "salt" : "UzVlMXAzIDQxMDIxLDEgOTI4MDQxMTUxIDE0MTo2MjkwMSAxUE0=",
+			    "source" : "2323",
+			    "referralId" : null,
+			    "referralRealm" : null,
+			    "inviteCode" : "K17REP",
+			    "inviteByCodeId" : null,
+			    "appMarket" : null,
+			    "appVesion" : null,
+			    "imei" : null
+		  }
+
+	}
+}

@@ -1,0 +1,38 @@
+
+.list_compon .row_compon div{
+	text-align: right;
+	height: 27px; line-height: 27px;
+	color: #d2d2d2;
+	width: 90px;
+}
+
+.list_compon .row_compon input{
+	height: 27px; line-height: 27px;
+	font-size: 0.8em;
+}
+
+.list_compon .row_compon p{
+	height: 27px; line-height: 27px;
+	font-size: 0.8em;
+}
+
+
+.list_compon > p{
+	background-color: #e2e2e2;
+	color: #5cae9f;
+	font-size: 16px;
+	padding-left: 10px;
+	line-height: 30px;
+	margin:0;
+	margin-bottom: 5px;
+}
+
+.list_compon{
+	border: 1px solid #e8e8e8;
+	margin-bottom: 15px;
+}
+.list_compon .but_compon{
+	margin: 5px 10px 10px 10px;
+}
+
+

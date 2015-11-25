@@ -1,0 +1,6 @@
+but_compon 按钮组件
+head_compon 页头组件
+menu_compon 菜单组件
+row_compon 表单组件
+
+每个页面下包含对应的css\js

@@ -1,0 +1,44 @@
+/*如果要更改弹层样式，复制下边css代码，把tipBox替换成你配置的id名称，然后重写*/
+
+/*弹层默认样式 灰色透明 最外层的*/
+#tipBox{}
+
+/*除灰色部分，主要的内容区域样式*/
+#tipBox .tipBox{
+	border-radius: 5px;
+	background-color: #fff;
+	padding:40px 20px;
+}
+
+/*文本显示区域样式*/
+#tipBox .tipBox .tipBox_content{
+	text-align: center;
+	color: #5cae9f;
+}
+
+/*文本显示区域样式*/
+#tipBox .tipBox .tipBox_succeed_icon,
+#tipBox .tipBox .tipBox_failed_icon{
+	width: 100px;
+	height: 40px;
+
+	margin:0 auto 20px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#tipBox .tipBox .tipBox_succeed_icon{
+	background-image: url(../../icons/succeed.png);
+}
+#tipBox .tipBox .tipBox_failed_icon{
+	background-image: url(../../icons/failed.png);
+}
+
+/*ICON 样式*/
+#tipBox .tipBox .tipBox_icon{}
+
+/*
+	button 样式修改的话,
+	请查看按钮组件
+*/

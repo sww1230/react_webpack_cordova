@@ -1,0 +1,32 @@
+{
+	"status" : "200",
+	"message": "ok",
+	"data": {
+		    "id":"88765f76-6c31-48d3-8e38-6997126432ac",
+			"uniqueCode":"abcdefg",
+			"corporation":"aaaa",
+			"guarantyStyle":"4",
+			"product":"33",
+			"title":"9876543210",
+			"usage":"55",
+			"type":"400",
+			"amount":"1234567890",
+			"minAmount":"100",
+			"maxAmount":"100000000",
+			"stepAmount":"100",
+			"yearsMonthsDays":"60",
+			"annualRate":"24.0",
+			"mortgaged":"1000",
+			"paymentMethod":"111",
+			"loanGuaranteeFee":"0.5",
+			"loanServiceFee":"0.4",
+			"loanRiskFee":"0.3",
+			"loanManageFee":"0.2",
+			"loanInterestFee":"0.1",
+			"investInterestFee":"99.00",
+			"description":"贷款说明",
+			"guaranteeInfo":"担保信息",
+			"mortgageInfo":"抵押信息",
+			"riskInfo":"风险措施"
+	}
+}

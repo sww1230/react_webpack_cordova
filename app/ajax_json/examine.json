@@ -1,0 +1,57 @@
+{
+	"status" : "200",
+	"message": "ok",
+	"data": {
+		  "results":[
+					  	{
+					      "id":"88765f76-6c31-48d3-8e38-6997126432ac",
+					  	  "mobile":"15223465456",
+						  "uniqueCode":"qweqwe",
+						  "title":"标题标题标题111sss1111",
+						  "product":"管辖同资人借款",
+						  "amount":2000000,
+						  "minAmount":"100",
+						  "maxAmount":"50000",
+						  "annualRate":"24.0%",
+						  "stepAmount":999,
+						  "status":"未处理"
+					  	},{
+					  	  "id":"6c31-48d3-8e38-6997126432ac",
+					  	  "mobile":"15223465456",
+						  "uniqueCode":"kghjkgh",
+						  "title":"标题标题标题22222",
+						  "product":"管辖同资人借款",
+						  "amount":2000000,
+						  "minAmount":"100",
+						  "maxAmount":"50000",
+						  "annualRate":"24.0%",
+						  "stepAmount":999,
+						  "status":"未处理"
+					  	},{
+					  	  "id":"48d3-8e38-6997126432ac",
+					  	  "mobile":"15223465456",
+						  "uniqueCode":"76474646",
+						  "title":"标题标题标题3333333",
+						  "product":"管辖同资人借款",
+						  "amount":2000000,
+						  "minAmount":"100",
+						  "maxAmount":"50000",
+						  "annualRate":"24.0%",
+						  "stepAmount":999,
+						  "status":"未处理"
+					  	},{
+					  	  "id":"8e38-6997126432ac",
+					  	  "mobile":"15223465456",
+						  "uniqueCode":"hjjkgjhk",
+						  "title":"标题标题标题444444",
+						  "product":"管辖同资人借款",
+						  "amount":2000000,
+						  "minAmount":"100",
+						  "maxAmount":"50000",
+						  "annualRate":"24.0%",
+						  "stepAmount":999,
+						  "status":"未处理"
+					  	}
+		           ]
+	}
+}
